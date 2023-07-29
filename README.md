@@ -10,4 +10,4 @@ deployed to netlify
 
 it can be seen live at
 
-[julienmellon.com](https://portfolio.julienmellon.com)
+[portfolio.julienmellon.com](https://portfolio.julienmellon.com)
